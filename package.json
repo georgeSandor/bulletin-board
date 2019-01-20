@@ -2,7 +2,7 @@
   "name": "bulletin-board",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://georgeSandor.github.io/bulletin-board/",
+  "homepage": "https://github.com/georgeSandor/bulletin-board/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
