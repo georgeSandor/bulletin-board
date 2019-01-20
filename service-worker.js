@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/bulletin-board/precache-manifest.6a24010a58e9783cf61d59aa5ca12b82.js"
+  "/georgeSandor/bulletin-board/precache-manifest.2ec585d70fc217e9c12f4684b70e9918.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/bulletin-board/index.html", {
+workbox.routing.registerNavigationRoute("/georgeSandor/bulletin-board/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
